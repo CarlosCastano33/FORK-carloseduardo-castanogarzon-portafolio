@@ -5,7 +5,7 @@ import { SKILLS } from '@/constants/portafolio';
 const KnowledgeSection: React.FC = () => {
 
   return (
-    <section className="py-15 space-y-14">
+    <section className="py-7 space-y-14">
       {/* Sección de cabecera */}
       <div className="text-center space-y-5 max-w-3xl mx-auto px-4">
         <h2 className="text-4xl lg:text-5xl font-black text-foreground leading-tight uppercase tracking-tight">
